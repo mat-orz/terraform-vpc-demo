@@ -1,5 +1,5 @@
 # Project wide variable
-PROJECT_NAME                          = "vpc-demo"
+PROJECT_NAME                          = "demo"
 
 # Varibles for the Providers
 AWS_ACCESS_KEY                        = ""
